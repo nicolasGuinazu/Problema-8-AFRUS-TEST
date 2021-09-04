@@ -1,0 +1,46 @@
+
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Arial','sans-serif'
+}
+
+body {
+  margin: 0;
+  background-color: #3a3939;
+}
+
+.app {
+  width: 90%;
+  height: 90%;
+  padding: 1rem;
+  background-color: white;
+  margin: 3rem auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.input {
+  width: 90%;
+  height: 90%;
+  padding: 1rem;
+  background-color: inherit;
+  margin: 3rem auto;
+  display: flex;
+  justify-content: center;
+}
+
+
+.container{
+  margin: 10px;
+  border: none;
+  background-color: #a8a8a8;
+  color: rgb(20, 19, 19);
+}
+
+
+
